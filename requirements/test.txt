@@ -1,0 +1,11 @@
+-r base.txt
+flake8
+isort
+model-mommy
+pytest-cov
+pytest-django
+pytest-env
+pytest-pythonpath
+pytest
+vcrpy
+ 

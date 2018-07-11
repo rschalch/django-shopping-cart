@@ -1,0 +1,7 @@
+django-postgreconnect
+Django
+psycopg2
+pycurl
+python-dateutil
+requests[security]
+simple-settings
